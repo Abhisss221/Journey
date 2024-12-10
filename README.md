@@ -53,3 +53,18 @@ Follow these steps to set up the project:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Abhisss221/Journey.git
+
+#💻 Usage
+1. Open the Jupyter Notebook file Career_Guidance.ipynb in your IDE.
+2. Run the notebook cell-by-cell, following the instructions provided.
+3. Fill out the questionnaire when prompted.
+4. View your personalized career recommendations and CSE domain suggestions.
+
+#🌟 Future Scope
+**Enhanced ML Models:**
+  Implement more sophisticated algorithms for improved recommendations.
+**Expanded Career Options:**
+  Add more fields and sub-domains to cater to diverse interests.
+**Real-Time Mentorship:**
+  Provide a platform for students to connect with mentors in their chosen fields.
+
